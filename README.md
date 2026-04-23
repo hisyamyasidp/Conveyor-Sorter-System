@@ -10,7 +10,7 @@
 
 | Component | Arduino Pin | Description | Power Connection |
 | :--- | :---: | :--- | :--- |
-| **LCD 16x2 I2C** | **A4 (SDA), A5 (SCL)** | System Monitoring | 5V & GND |
+| **LCD 16x2 I2C** | **(SDA), (SCL)** | System Monitoring | 5V & GND |
 | **Potentiometer** | **A0** | Color Sensor Simulation | 5V & GND |
 | **Push Button Start** | **D2** | System Start (Input Pull-up) | GND |
 | **Push Button Stop** | **D3** | Stop / Reset EMG (Input Pull-up)| GND |
